@@ -8,7 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"formulahendry.code-runner",
-				"ms-vscode.cpptools"
+				"ms-vscode.cpptools",
+				"ms-vscode.cpptools-extension-pack"
 			]
 		}
 	}
